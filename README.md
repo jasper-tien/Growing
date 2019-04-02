@@ -14,5 +14,5 @@
 ### C
 ### Python
 ### C++
-### Other
+## Other
 [学习网站](https://github.com/MaoTaoTian/Growing/blob/master/学习网站.md)
