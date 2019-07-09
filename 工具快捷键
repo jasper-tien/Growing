@@ -1,0 +1,23 @@
+### Mac快捷键
+ctrl + 上：显示全部窗口  
+ctrl + 下：显示当前窗口 
+
+
+
+### Xcode快捷键
+command + F:在当前文件搜索指定字符串  
+command + shift + F：全局搜索指定字符串  
+command + shift + O : 直接跳转到某个方法定义或者指定的代码文件
+ctrl + command + up/down: .h和.m文件切换  
+command + alt + 左右键：折叠代码块  
+command + shift + alt + 左右键：折叠当前文件所有的函数  
+command + /：注释或者取消注释  
+command + R:运行  
+command + B: 编译  
+command + shift + K：清理工程缓存  
+command + N：新键文件  
+command + shift + N：新键工程  
+command + ]：右缩进
+command + [：左缩进  
+ctrl + K：删除本行  
+ctrl + D：删除光标右边的字符  
