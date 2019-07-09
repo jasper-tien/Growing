@@ -15,5 +15,5 @@
 ### Python
 ### C++
 ## Other
-[工具快捷键](https://github.com/MaoTaoTian/Growing/blob/master/工具快捷键)
+[工具快捷键](https://github.com/MaoTaoTian/Growing/blob/master/工具快捷键)  
 [学习网站](https://github.com/MaoTaoTian/Growing/blob/master/学习网站.md)
