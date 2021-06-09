@@ -17,3 +17,6 @@
 ## TaggedPointer
 [深入理解Tagged Pointer](https://blog.devtang.com/2014/05/30/understand-tagged-pointer/).  
 [iOS - 老生常谈内存管理（五）：Tagged Pointer](https://juejin.cn/post/6844904132940136462)
+
+## 内存回收 
+[内存回收算法](https://www.cnblogs.com/Tpf386/p/11210483.html)  
